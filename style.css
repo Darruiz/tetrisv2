@@ -1,0 +1,29 @@
+body{
+    background-color: #222;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  canvas {
+    border: 1px solid #fff;
+  }
+
+  #score {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #rankings {
+    margin-top: 20px;
+  }
+
+  #rankings li {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
